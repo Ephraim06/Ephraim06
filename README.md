@@ -39,9 +39,4 @@ I am a passionate web developer who is eager to learn and grow in the world of p
 
 ## 📫 How to reach me:
 - 📧 Email: [esamanyayi95@gmail.com](mailto:esamanyayi95@gmail.com)
-- 🔗 LinkedIn: [Ephraim LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-
-## 💬 Fun fact:
-- I'm a slow learner but passionate about coding and constantly improving my skills. I enjoy building things from scratch and learning new technologies to solve real-world problems.
-
-Feel free to explore my repositories and get in touch for collaboration or just a chat about development!
+- 🔗 LinkedIn: [Ephraim LinkedIn](https://www.linkedin.com/in/ephraim-s-281742148)
